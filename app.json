@@ -1,0 +1,51 @@
+{
+  "id": "d92773b0-a50d-4966-b35d-9fca17420d01",
+  "name": "ALProject9",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+   
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "publisher": "Microsoft",
+      "version": "21.5.53619.54509"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "publisher": "Microsoft",
+      "version": "21.5.53619.53946"
+     },{
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "publisher": "Microsoft",
+      "version": "21.5.53619.53946"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
